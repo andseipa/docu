@@ -5,6 +5,8 @@ LaTeX conversion in Pandoc.
 
 ## Usage
 
+Commands:
+
 ```
 docu
 ```
@@ -23,6 +25,7 @@ A list of ideas to implement eventually (in order of importance):
 	+ Note directory.
 	+ Date format.
 	+ File extension.
+- Help flag.
 - Multiple template files to choose from during creation:
 	+ Report.
 	- Article.
@@ -33,6 +36,7 @@ A list of ideas to implement eventually (in order of importance):
 	+ Create (sub-)folders if needed/wanted.
 - Enable docu to read from sdtin.
 	1) To skip subject select.
+
 		After a while you'd get used to what number represents which 
 		subject.
 	2) Filename(?).
