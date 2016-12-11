@@ -8,4 +8,4 @@ becoming LaTeX files.
 Demonstration:
 
 [![Usage demonstration
-](https://img.youtube.com/vi/Ng332KY6JhQ/0.jpg)](https://www.youtube.com/watch?v=Ng332KY6JhQ) 
+](https://img.youtube.com/vi/Bb0jx55bO88/0.jpg)](https://www.youtube.com/watch?v=Bb0jx55bO88) 
