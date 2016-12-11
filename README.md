@@ -35,6 +35,6 @@ A list of ideas to implement eventually (in order of importance):
 	+ List/read directories dynamically.
 	+ Create (sub-)folders if needed/wanted.
 - Enable docu to read from sdtin.
-	1) To skip subject select.
-	2) Filename(?).
+	+ To skip subject select.
+	+ Filename(?).
 - Prettify interaction.
