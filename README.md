@@ -35,11 +35,6 @@ A list of ideas to implement eventually (in order of importance):
 	+ List/read directories dynamically.
 	+ Create (sub-)folders if needed/wanted.
 - Enable docu to read from sdtin.
-
 	1) To skip subject select.
-		After a while you'd get used to what number represents which 
-		subject.
-
 	2) Filename(?).
-
 - Prettify interaction.
